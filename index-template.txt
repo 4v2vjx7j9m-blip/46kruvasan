@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="46KRUVASAN – Malatya'nın en lezzetli kruvasan ve Fransız pastası deneyimi. Taze günlük üretim, toptan satış." />
+    <meta name="keywords" content="kruvasan, Malatya, pastane, Fransız pastası, toptan kruvasan" />
+    <meta property="og:title" content="46KRUVASAN" />
+    <meta property="og:description" content="Malatya'nın En Tatlı Lezzeti" />
+    <meta property="og:type" content="website" />
+    <title>46KRUVASAN – Malatya'nın En Tatlı Lezzeti</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
