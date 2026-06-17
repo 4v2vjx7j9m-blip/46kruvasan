@@ -183,7 +183,7 @@ function AdminDashboard({ onClose }: { onClose: () => void }) {
 
             {/* Items */}
             {expandedCat === cat.id && (
-              <div className="divide-y" style={{ divideColor: 'rgba(61,26,10,0.06)' }}>
+              <div className="divide-y divide-black/10">
                 {cat.items.map(item => (
                   <div key={item.id} className="px-4 py-2.5">
                     {editing?.categoryId === cat.id && editing?.itemId === item.id ? (
